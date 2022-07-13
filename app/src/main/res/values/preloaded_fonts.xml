@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/baloo</item>
+        <item>@font/barlow_extrabold</item>
+        <item>@font/barlow_thin</item>
+        <item>@font/varela</item>
+    </array>
+</resources>
